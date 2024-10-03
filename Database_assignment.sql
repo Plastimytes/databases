@@ -1,0 +1,6 @@
+mysql>create database Employee;
+
+
+
+
+
