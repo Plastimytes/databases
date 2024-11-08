@@ -1,3 +1,4 @@
+Some simple codes for mysql
 -- Active: 1728580870004@@127.0.0.1@3306
 CREATE DATABASE 
     FLIGHT_BOOKING_DATABASE;
