@@ -1,4 +1,5 @@
 Create DATABASE bsit_;
+
 USE BSIT;
 CREATE TABLE PATIENT_(
     PID CHAR(4),
@@ -7,6 +8,7 @@ CREATE TABLE PATIENT_(
     Fees INT(20),
     PRIMARY KEY (PID)
 );
+
 INSERT INTO PATIENT_(PID, Pname, Address, Fees)
  VALUES ('P001','Tom', 'Kampala', '40000'),
   ('P002','Agaba', 'Entebbe', '16000');
